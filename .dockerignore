@@ -1,0 +1,15 @@
+.git
+.gitignore
+.node_modules
+node_modules
+**/node_modules
+**/.git
+**/.DS_Store
+.serena
+CLAUDE.md
+go-banana-proxy
+go-banana-proxy.exe
+*_test.go
+*.log
+.tmp
+tmp

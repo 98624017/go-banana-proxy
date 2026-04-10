@@ -1,0 +1,17 @@
+# 构建产物
+go-banana-proxy
+go-banana-proxy.exe
+*.out
+coverage.out
+
+# 本地辅助文件
+.serena/
+CLAUDE.md
+.idea/
+.vscode/
+.DS_Store
+
+# 日志与临时目录
+*.log
+.tmp/
+tmp/
